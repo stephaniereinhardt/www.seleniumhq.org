@@ -95,6 +95,10 @@
             <a rel="nofollow" href="http://www.wedoqa.com/#selenium">WeDoQA</a> - 
             Selenium Automation, Custom Selenium Frameworks, Load testing using Selenium to simulate real usage.
         </li>
+        <li>
+            <a rel="nofollow" href="http://www.gatewaytechnolabs.com/mobile-application-testing">Gateway Technolabs</a> - 
+            Automated testing should be set up for as many scenarios as possible.
+        </li>
     </ul>
 
     <h2>Commercial Training</h2>
